@@ -4,7 +4,7 @@ This application streamlines the process of obtaining essential information abou
 
 The application, developed with React, Typescript, and Slim, prioritizes the confidentiality and protection of user information. Slim is used as a backend to hide private API key.
 
-![alt text](https://ibb.co/QcN4sVt)
+![Screenshot](car-details.png)
 
 [![Coverage Status](https://coveralls.io/repos/github/slimphp/Slim-Skeleton/badge.svg?branch=master)](https://coveralls.io/github/slimphp/Slim-Skeleton?branch=master)
 
