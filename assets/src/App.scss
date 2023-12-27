@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap');
+
+@font-face {
+  font-family: 'UKNumberPlate';
+  src: url('./fonts/UKNumberPlate.ttf') format('truetype');
+}
+
+html {
+  // background: rgb(230, 230, 230);
+  // background: linear-gradient(128deg, rgba(230, 230, 230, 1) 20%, rgba(244, 95, 95, 1) 98%);
+  min-height: 100vh;
+}
+
+body {
+  overflow-x: hidden;
+  font-family: 'Poppins', Verdana, Arial, Helvetica, sans-serif !important;
+  font-weight: 400;
+  background: #f9f9f9 !important;
+  // background: rgb(230, 230, 230);
+  // background: linear-gradient(168deg, rgba(230, 230, 230, 1) 61%, rgba(136, 255, 140, 1) 98%);
+
+  *> {
+    color: #fff !important;
+  }
+
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.regSearch {
+  width: 382px;
+  margin: 0 auto;
+  height: 70px;
+  font-size: 60px;
+  text-align: center;
+  color: #000000;
+  text-transform: uppercase;
+  border: 1px solid #000000;
+  border-radius: 5px;
+  background-color: #F6BD37;
+  font-family: 'UKNumberPlate';
+  font-weight: 700;
+
+  &:focus {
+    outline: 0;
+  }
+}
+
+.regSubmit {
+  width: 382px;
+  font-weight: 700 !important;
+  margin: 0 auto;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
