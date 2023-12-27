@@ -1,6 +1,6 @@
 # Search MOT and Tax
 
-This application streamlines the process of obtaining essential information about a vehicle by leveraging the DVLA API. Whether you're a car owner, prospective buyer, or automotive enthusiast, our app provides a user-friendly interface to access crucial details with just a vehicle registration number.
+This application streamlines the process of obtaining essential information about a vehicle by leveraging the DVLA API. Whether you're a car owner, prospective buyer, or automotive enthusiast, this app provides a user-friendly interface to access crucial details with just a vehicle registration number.
 
 The application, developed with React, Typescript, and Slim, prioritizes the confidentiality and protection of user information. Slim is used as a backend to hide private API key.
 
